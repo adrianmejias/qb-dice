@@ -177,7 +177,17 @@ Current version: 1.3.0 (see `fxmanifest.lua`). Follow semantic versioning (MAJOR
 ---
 
 ## License
-Specify a license (MIT recommended). If none is added, usage is effectively "all rights reserved" by default. Add a LICENSE file to clarify reuse terms.
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0). You may copy, modify, and redistribute the code provided that:
+
+1. Source remains available (must provide corresponding source when distributing binaries or modified versions).
+2. Derivative works are also licensed under GPL-3.0 (strong copyleft – no relicensing to a proprietary license).
+3. You include a copy of the GPL-3.0 license and preserve notices / disclaimers.
+
+There is NO WARRANTY (see full text for details). For the complete legal terms, read the `LICENSE` file in this repository or visit: https://www.gnu.org/licenses/gpl-3.0.html
+
+If you contribute, you agree to license your contributions under the same GPL-3.0 terms. For alternative licensing discussions (dual-license, etc.), open an issue first.
+
+Copyright (C) 2025 AbstractCoding
 
 ---
 
