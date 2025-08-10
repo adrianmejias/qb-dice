@@ -2,6 +2,8 @@
 
 Simple street dice mini‑game resource for QBCore (FiveM) with a clean Vue 3 + Tailwind UI scoreboard panel. Players start a quick dice session with nearby friends using their citizen IDs; turn order, rolls, and scores are synced server‑side. Leaving the play radius or disconnecting auto‑removes a player and may cancel the game.
 
+UNTESTED! PLEASE DO NOT USE RIGHT NOW!
+
 ### Features
 - /dice command to start a multiplayer dice game (up to configurable max players)
 - Turn‑based two‑dice rolls (2d6) accumulating total score
